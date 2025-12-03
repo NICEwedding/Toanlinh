@@ -60,9 +60,4 @@ const WEDDING_CONFIG = {
       address: "Địa chỉ: Tổ dân phố Cây Quân, Mỹ Bằng, Yên Sơn, Tuyên Quang  "
     }
   },
-
-  qr: [
-    {src: "assets/QR01.jpg", title: "DANG TRONG TOAN ", info: "Chân thành cảm ơn"},
-    {src: "assets/QR02.jpg", title: "DO THI MAI LINH", info: "Chân thành cảm ơn"}
-  ],
 };
